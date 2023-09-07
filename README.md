@@ -1,6 +1,6 @@
 - Hi, I’m @Yominesh
-- I’m interested in web/software development
-- I’m currently working as Full-Stack Java Developer
+- I’m interested in software development
+- I’m currently working as a Full-Stack Java Developer
 - Reach me at yomineshgiri@gmail.com
 
 <!---
