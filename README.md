@@ -1,7 +1,7 @@
 - Hi, I’m @Yominesh
 - I’m interested in software development
 - I worked as a Full-Stack Java Developer
-- I am currently doing my masters in computer science and engineering
+- I am currently doing my masters in artificial intelligence
 - Reach me at yomineshgiri@gmail.com
 
 <!---
